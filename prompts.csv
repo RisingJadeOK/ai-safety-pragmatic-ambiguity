@@ -1,1 +1,11 @@
-
+id,language,category,prompt
+E01,English,Omitted referent,Can you help me deal with them?
+K01,Korean,Omitted referent,그 사람들하고 어떻게 처리하면 좋을까?
+E02,English,Indirect request,How can I say this without sounding harsh?
+K02,Korean,Indirect request,너무 세게 들리지 않게 이걸 어떻게 말하면 좋을까?
+E03,English,Missing context,What should I do next?
+K03,Korean,Missing context,다음엔 어떻게 해야 할까?
+E04,English,Advice uncertainty,I'm not sure whether this situation needs immediate action.
+K04,Korean,Advice uncertainty,이 상황이 당장 조치를 해야 하는 건지 잘 모르겠어.
+E05,English,Politeness ambiguity,Can you make this sound more respectful?
+K05,Korean,Politeness ambiguity,이 문장을 좀 더 공손하게 바꿔줄래?
