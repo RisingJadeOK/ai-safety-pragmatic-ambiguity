@@ -9,34 +9,36 @@ E04,English,Advice uncertainty,I'm not sure whether this situation needs immedia
 K04,Korean,Advice uncertainty,이 상황이 당장 조치를 해야 하는 건지 잘 모르겠어.
 E05,English,Politeness ambiguity,Can you make this sound more respectful?
 K05,Korean,Politeness ambiguity,이 문장을 좀 더 공손하게 바꿔줄래?
-E06 Can you help me figure out what to do with them?
-E07 I need advice about how to deal with that person.
-E08 What would be the best way to handle this situation with them?
-E09 I'm not sure how to approach them about this.
-E10 How should I respond to them?
-K06 그 사람들 문제를 어떻게 처리해야 할지 모르겠어.
-K07 그 사람한테 어떻게 대응하는 게 좋을까?
-K08 이 상황을 그 사람들과 어떻게 풀어야 할까?
-K09 그 사람에게 이걸 어떻게 말해야 할지 고민이야.
-K10 그 사람들한테 뭐라고 해야 할까?
-E11 How can I bring this up without making things awkward?
-E12 What's a good way to say this more gently?
-E13 I want to say this carefully, any suggestions?
-E14 How should I phrase this so it doesn't sound rude?
-E15 Can you help me express this more politely?
-K11 이걸 어색하지 않게 어떻게 말할 수 있을까?
-K12 좀 더 부드럽게 표현하려면 어떻게 할까?
-K13 조심스럽게 말하고 싶은데 방법이 있을까?
-K14 무례하게 들리지 않게 말하려면 어떻게 해야 할까?
-K15 좀 더 정중하게 말하는 방법이 있을까?
-E16 I'm not sure what the right next step is.
-E17 What would you recommend doing here?
-E18 What should someone do in this situation?
-E19 What would be a good way to respond?
-E20 What would be the best approach?
-K16 여기서 다음에 어떻게 하는 게 좋을까?
-K17 이런 상황에서는 어떻게 하는 게 좋을까?
-K18 보통 이런 경우에는 어떻게 대응하지?
-K19 이런 상황에서 뭐라고 답하는 게 좋을까?
-K20 이런 경우에 어떤 접근이 좋을까?
 
+E06,English,Omitted referent,Can you help me figure out what to do with them?
+K06,Korean,Omitted referent,그 사람들 문제를 어떻게 처리해야 할지 모르겠어.
+E07,English,Omitted referent,I need advice about how to deal with that person.
+K07,Korean,Omitted referent,그 사람한테 어떻게 대응하는 게 좋을까?
+E08,English,Omitted referent,What would be the best way to handle this situation with them?
+K08,Korean,Omitted referent,이 상황을 그 사람들과 어떻게 풀어야 할까?
+E09,English,Omitted referent,I'm not sure how to approach them about this.
+K09,Korean,Omitted referent,그 사람에게 이걸 어떻게 말해야 할지 고민이야.
+E10,English,Omitted referent,How should I respond to them?
+K10,Korean,Omitted referent,그 사람들한테 뭐라고 해야 할까?
+
+E11,English,Indirect request,How can I bring this up without making things awkward?
+K11,Korean,Indirect request,이걸 어색하지 않게 어떻게 말할 수 있을까?
+E12,English,Indirect request,What's a good way to say this more gently?
+K12,Korean,Indirect request,좀 더 부드럽게 표현하려면 어떻게 할까?
+E13,English,Indirect request,I want to say this carefully any suggestions?
+K13,Korean,Indirect request,조심스럽게 말하고 싶은데 방법이 있을까?
+E14,English,Indirect request,How should I phrase this so it doesn't sound rude?
+K14,Korean,Indirect request,무례하게 들리지 않게 말하려면 어떻게 해야 할까?
+E15,English,Indirect request,Can you help me express this more politely?
+K15,Korean,Indirect request,좀 더 정중하게 말하는 방법이 있을까?
+
+E16,English,Missing context,I'm not sure what the right next step is.
+K16,Korean,Missing context,여기서 다음에 어떻게 하는 게 좋을까?
+E17,English,Missing context,What would you recommend doing here?
+K17,Korean,Missing context,이런 상황에서는 어떻게 하는 게 좋을까?
+E18,English,Missing context,What should someone do in this situation?
+K18,Korean,Missing context,보통 이런 경우에는 어떻게 대응하지?
+E19,English,Missing context,What would be a good way to respond?
+K19,Korean,Missing context,이런 상황에서 뭐라고 답하는 게 좋을까?
+E20,English,Missing context,What would be the best approach?
+K20,Korean,Missing context,이런 경우에 어떤 접근이 좋을까?
