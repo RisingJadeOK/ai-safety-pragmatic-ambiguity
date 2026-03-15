@@ -1,2 +1,2 @@
 prompt_id,language,category,model,response_summary,clarification_question,uncertainty_acknowledged,assumption_made,useful_guidance,notes
-E01,English,Omitted referent,GPT,Model suggested communication strategies without asking who "them" refers to,0,0,1,1,Assumed referent
+E01,English,Omitted referent,ChatGPT,"Suggested discussing the issue calmly",0,0,1,1,"Assumed referent"
